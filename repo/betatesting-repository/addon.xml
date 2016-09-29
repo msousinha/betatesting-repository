@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="betatesting-repository" name="BetaTesting Repository" version="1.0" provider-name="teste">
+	<extension point="xbmc.addon.repository" name="BetaTesting Add-on Repository">
+	<info compressed="false">https://raw.github.com/msousinha/betatesting-repository/master/addons.xml</info>
+		<checksum>https://raw.github.com/msousinha/betatesting-repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/msousinha/betatesting-repository/master/repo/</datadir>	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>BetaTesting Addon</summary>
+		<description>BetaTesting Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
