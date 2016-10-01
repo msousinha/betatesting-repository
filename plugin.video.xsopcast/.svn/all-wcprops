@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/plugin.video.xsopcast
+END
+addon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5/trunk/plugin.video.xsopcast/addon.xml
+END
+channel_guide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/plugin.video.xsopcast/channel_guide.xml
+END
+data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/plugin.video.xsopcast/data.xml
+END
+fanart.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/plugin.video.xsopcast/fanart.jpg
+END
+default.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5/trunk/plugin.video.xsopcast/default.py
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/plugin.video.xsopcast/icon.png
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/plugin.video.xsopcast/settings.xml
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/plugin.video.xsopcast/LICENSE.txt
+END

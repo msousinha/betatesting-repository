@@ -1,0 +1,2537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+<classes>
+	<class>
+		<name_en>Entertainmnet</name_en>
+		<name_cn>娱乐类</name_cn>
+		<id>1</id>
+	</class>
+	<class>
+		<name_en>Sports</name_en>
+		<name_cn>体育类</name_cn>
+		<id>2</id>
+	</class>
+	<class>
+		<name_en>General</name_en>
+		<name_cn>综合类</name_cn>
+		<id>3</id>
+	</class>
+	<class>
+		<name_en>News</name_en>
+		<name_cn>新闻类</name_cn>
+		<id>6</id>
+	</class>
+	<class>
+		<name_en>Finance &amp; Economics</name_en>
+		<name_cn>财经类</name_cn>
+		<id>7</id>
+	</class>
+	<class>
+		<name_en>Education</name_en>
+		<name_cn>教育类</name_cn>
+		<id>8</id>
+	</class>
+	<class>
+		<name_en>Movies</name_en>
+		<name_cn>电影</name_cn>
+		<id>9</id>
+	</class>
+	<class>
+		<name_en>Cartoon</name_en>
+		<name_cn>卡通类</name_cn>
+		<id>10</id>
+	</class>
+	<class>
+		<name_en>Music</name_en>
+		<name_cn>音乐类</name_cn>
+		<id>11</id>
+	</class>
+	<class>
+		<name_en>Comic</name_en>
+		<name_cn>滑稽</name_cn>
+		<id>12</id>
+	</class>
+	<class>
+		<name_en>Documentary</name_en>
+		<name_cn>纪实类</name_cn>
+		<id>13</id>
+	</class>
+	<class>
+		<name_en>TV play series</name_en>
+		<name_cn>电视连续剧</name_cn>
+		<id>14</id>
+	</class>
+	<class>
+		<name_en>Others</name_en>
+		<name_cn>其它</name_cn>
+		<id>99</id>
+	</class>
+</classes>
+
+
+<countries>
+	<country>
+		<code>AD</code>
+		<en>Andorra</en>
+		<cn>安道尔</cn>
+		<tw>安道爾</tw>
+	</country>
+	<country>
+		<code>AE</code>
+		<en>United Arab Emirates</en>
+		<cn>阿拉伯联合酋长国</cn>
+		<tw>阿拉伯聯合酋長國</tw>
+	</country>
+	<country>
+		<code>AF</code>
+		<en>Afghanistan</en>
+		<cn>阿富汗</cn>
+		<tw>阿富汗</tw>
+	</country>
+	<country>
+		<code>AG</code>
+		<en>Antigua and Barbuda</en>
+		<cn>安提瓜和巴布达</cn>
+		<tw>安提瓜和巴布達</tw>
+	</country>
+	<country>
+		<code>AI</code>
+		<en>Anguilla</en>
+		<cn>安圭拉</cn>
+		<tw>安圭拉</tw>
+	</country>
+	<country>
+		<code>AL</code>
+		<en>Albania</en>
+		<cn>阿尔巴尼亚</cn>
+		<tw>阿爾巴尼亞</tw>
+	</country>
+	<country>
+		<code>AM</code>
+		<en>Armenia</en>
+		<cn>亚美尼亚</cn>
+		<tw>亞美尼亞</tw>
+	</country>
+	<country>
+		<code>AN</code>
+		<en>Netherlands Antilles</en>
+		<cn>荷属安的列斯</cn>
+		<tw>荷屬安的列斯</tw>
+	</country>
+	<country>
+		<code>AO</code>
+		<en>Angola</en>
+		<cn>安哥拉</cn>
+		<tw>安哥拉</tw>
+	</country>
+	<country>
+		<code>AQ</code>
+		<en>Antarctica</en>
+		<cn>南极洲</cn>
+		<tw>南極洲</tw>
+	</country>
+	<country>
+		<code>AR</code>
+		<en>Argentina</en>
+		<cn>阿根廷</cn>
+		<tw>阿根廷</tw>
+	</country>
+	<country>
+		<code>AS</code>
+		<en>American Samoa</en>
+		<cn>美属萨摩亚</cn>
+		<tw>美屬薩摩亞</tw>
+	</country>
+	<country>
+		<code>AT</code>
+		<en>Austria</en>
+		<cn>奥地利</cn>
+		<tw>奧地利</tw>
+	</country>
+	<country>
+		<code>AU</code>
+		<en>Australia</en>
+		<cn>澳洲</cn>
+		<tw>澳洲</tw>
+	</country>
+	<country>
+		<code>AW</code>
+		<en>Aruba</en>
+		<cn>阿鲁巴</cn>
+		<tw>阿魯巴</tw>
+	</country>
+	<country>
+		<code>AX</code>
+		<en>Aland Islands</en>
+		<cn>奥兰群岛</cn>
+		<tw>奧蘭群島</tw>
+	</country>
+	<country>
+		<code>AZ</code>
+		<en>Azerbaijan</en>
+		<cn>阿塞拜疆</cn>
+		<tw>阿塞拜疆</tw>
+	</country>
+	<country>
+		<code>BA</code>
+		<en>Bosnia and Herzegovina</en>
+		<cn>波斯尼亚和黑塞哥维那</cn>
+		<tw>波斯尼亞和黑塞哥維那</tw>
+	</country>
+	<country>
+		<code>BB</code>
+		<en>Barbados</en>
+		<cn>巴巴多斯</cn>
+		<tw>巴巴多斯</tw>
+	</country>
+	<country>
+		<code>BD</code>
+		<en>Bangladesh</en>
+		<cn>孟加拉國</cn>
+		<tw>孟加拉國</tw>
+	</country>
+	<country>
+		<code>BE</code>
+		<en>Belgium</en>
+		<cn>比利时</cn>
+		<tw>比利時</tw>
+	</country>
+	<country>
+		<code>BF</code>
+		<en>Burkina Faso</en>
+		<cn>布基纳法索</cn>
+		<tw>布基納法索</tw>
+	</country>
+	<country>
+		<code>BG</code>
+		<en>Bulgaria</en>
+		<cn>保加利亞</cn>
+		<tw>保加利亞</tw>
+	</country>
+	<country>
+		<code>BH</code>
+		<en>Bahrain</en>
+		<cn>巴林</cn>
+		<tw>巴林</tw>
+	</country>
+	<country>
+		<code>BI</code>
+		<en>Burundi</en>
+		<cn>布隆迪</cn>
+		<tw>布隆迪</tw>
+	</country>
+	<country>
+		<code>BJ</code>
+		<en>Benin</en>
+		<cn>贝宁</cn>
+		<tw>貝寧</tw>
+	</country>
+	<country>
+		<code>BL</code>
+		<en>Saint Barthélemy</en>
+		<cn>圣巴托洛缪岛</cn>
+		<tw>聖巴托洛繆島</tw>
+	</country>
+	<country>
+		<code>BM</code>
+		<en>Bermuda</en>
+		<cn>百慕达</cn>
+		<tw>百慕達</tw>
+	</country>
+	<country>
+		<code>BN</code>
+		<en>Brunei</en>
+		<cn>文莱</cn>
+		<tw>文萊</tw>
+	</country>
+	<country>
+		<code>BO</code>
+		<en>Bolivia</en>
+		<cn>玻利维亚</cn>
+		<tw>玻利維亞</tw>
+	</country>
+	<country>
+		<code>BR</code>
+		<en>Brazil</en>
+		<cn>巴西</cn>
+		<tw>巴西</tw>
+	</country>
+	<country>
+		<code>BS</code>
+		<en>Bahamas</en>
+		<cn>巴哈马</cn>
+		<tw>巴哈馬</tw>
+	</country>
+	<country>
+		<code>BT</code>
+		<en>Bhutan</en>
+		<cn>不丹</cn>
+		<tw>不丹</tw>
+	</country>
+	<country>
+		<code>BV</code>
+		<en>Bouvet Island</en>
+		<cn>布维岛</cn>
+		<tw>布維島</tw>
+	</country>
+	<country>
+		<code>BW</code>
+		<en>Botswana</en>
+		<cn>博茨瓦纳</cn>
+		<tw>博茨瓦納</tw>
+	</country>
+	<country>
+		<code>BY</code>
+		<en>Belarus</en>
+		<cn>白俄罗斯</cn>
+		<tw>白俄羅斯</tw>
+	</country>
+	<country>
+		<code>BZ</code>
+		<en>Belize</en>
+		<cn>伯利兹</cn>
+		<tw>伯利茲</tw>
+	</country>
+	<country>
+		<code>CA</code>
+		<en>Canada</en>
+		<cn>加拿大</cn>
+		<tw>加拿大</tw>
+	</country>
+	<country>
+		<code>CC</code>
+		<en>Cocos Islands</en>
+		<cn>科科斯群岛</cn>
+		<tw>科科斯群島</tw>
+	</country>
+	<country>
+		<code>CD</code>
+		<en>Congo - Kinshasa</en>
+		<cn>刚果-金沙萨</cn>
+		<tw>剛果-金沙薩</tw>
+	</country>
+	<country>
+		<code>CF</code>
+		<en>Central African Republic</en>
+		<cn>中非共和国</cn>
+		<tw>中非共和國</tw>
+	</country>
+	<country>
+		<code>CG</code>
+		<en>Congo - Brazzaville</en>
+		<cn>刚果-布拉柴维尔</cn>
+		<tw>剛果-布拉柴維爾</tw>
+	</country>
+	<country>
+		<code>CH</code>
+		<en>Switzerland</en>
+		<cn>瑞士</cn>
+		<tw>瑞士</tw>
+	</country>
+	<country>
+		<code>CI</code>
+		<en>Ivory Coast</en>
+		<cn>象牙海岸</cn>
+		<tw>象牙海岸</tw>
+	</country>
+	<country>
+		<code>CK</code>
+		<en>Cook Islands</en>
+		<cn>库克群岛</cn>
+		<tw>庫克群島</tw>
+	</country>
+	<country>
+		<code>CL</code>
+		<en>Chile</en>
+		<cn>智利</cn>
+		<tw>智利</tw>
+	</country>
+	<country>
+		<code>CM</code>
+		<en>Cameroon</en>
+		<cn>喀麦隆</cn>
+		<tw>喀麥隆</tw>
+	</country>
+	<country>
+		<code>CN</code>
+		<en>China</en>
+		<cn>中国</cn>
+		<tw>中國</tw>
+	</country>
+	<country>
+		<code>CO</code>
+		<en>Colombia</en>
+		<cn>哥伦比亚</cn>
+		<tw>哥倫比亞</tw>
+	</country>
+	<country>
+		<code>CR</code>
+		<en>Costa Rica</en>
+		<cn>哥斯達黎加</cn>
+		<tw>哥斯達黎加</tw>
+	</country>
+	<country>
+		<code>CU</code>
+		<en>Cuba</en>
+		<cn>古巴</cn>
+		<tw>古巴</tw>
+	</country>
+	<country>
+		<code>CV</code>
+		<en>Cape Verde</en>
+		<cn>佛得角</cn>
+		<tw>佛得角</tw>
+	</country>
+	<country>
+		<code>CX</code>
+		<en>Christmas Island</en>
+		<cn>圣诞岛</cn>
+		<tw>聖誕島</tw>
+	</country>
+	<country>
+		<code>CY</code>
+		<en>Cyprus</en>
+		<cn>塞浦路斯</cn>
+		<tw>塞浦路斯</tw>
+	</country>
+	<country>
+		<code>CZ</code>
+		<en>Czech Republic</en>
+		<cn>捷克共和国</cn>
+		<tw>捷克共和國</tw>
+	</country>
+	<country>
+		<code>DE</code>
+		<en>Germany</en>
+		<cn>德国</cn>
+		<tw>德國</tw>
+	</country>
+	<country>
+		<code>DJ</code>
+		<en>Djibouti</en>
+		<cn>吉布提</cn>
+		<tw>吉布提</tw>
+	</country>
+	<country>
+		<code>DK</code>
+		<en>Denmark</en>
+		<cn>丹麦</cn>
+		<tw>丹麥</tw>
+	</country>
+	<country>
+		<code>DM</code>
+		<en>Dominica</en>
+		<cn>多米尼克</cn>
+		<tw>多米尼克</tw>
+	</country>
+	<country>
+		<code>DO</code>
+		<en>Dominican Republic</en>
+		<cn>多米尼加共和國</cn>
+		<tw>多米尼加共和國</tw>
+	</country>
+	<country>
+		<code>DZ</code>
+		<en>Algeria</en>
+		<cn>阿尔及利亚</cn>
+		<tw>阿爾及利亞</tw>
+	</country>
+	<country>
+		<code>EC</code>
+		<en>Ecuador</en>
+		<cn>厄瓜多尔</cn>
+		<tw>厄瓜多爾</tw>
+	</country>
+	<country>
+		<code>EE</code>
+		<en>Estonia</en>
+		<cn>爱沙尼亚</cn>
+		<tw>愛沙尼亞</tw>
+	</country>
+	<country>
+		<code>EG</code>
+		<en>Egypt</en>
+		<cn>埃及</cn>
+		<tw>埃及</tw>
+	</country>
+	<country>
+		<code>EH</code>
+		<en>Western Sahara</en>
+		<cn>西撒哈拉</cn>
+		<tw>西撒哈拉</tw>
+	</country>
+	<country>
+		<code>ER</code>
+		<en>Eritrea</en>
+		<cn>厄立特里亚</cn>
+		<tw>厄立特里亞</tw>
+	</country>
+	<country>
+		<code>ES</code>
+		<en>Spain</en>
+		<cn>西班牙</cn>
+		<tw>西班牙</tw>
+	</country>
+	<country>
+		<code>ET</code>
+		<en>Ethiopia</en>
+		<cn>埃塞俄比亚</cn>
+		<tw>埃塞俄比亞</tw>
+	</country>
+	<country>
+		<code>FI</code>
+		<en>Finland</en>
+		<cn>芬兰</cn>
+		<tw>芬蘭</tw>
+	</country>
+	<country>
+		<code>FJ</code>
+		<en>Fiji</en>
+		<cn>斐济</cn>
+		<tw>斐濟</tw>
+	</country>
+	<country>
+		<code>FK</code>
+		<en>Falkland Islands</en>
+		<cn>福克兰群岛</cn>
+		<tw>福克蘭群島</tw>
+	</country>
+	<country>
+		<code>FM</code>
+		<en>Micronesia</en>
+		<cn>密克罗尼西亚</cn>
+		<tw>密克羅尼西亞</tw>
+	</country>
+	<country>
+		<code>FO</code>
+		<en>Faroe Islands</en>
+		<cn>法罗群岛</cn>
+		<tw>法羅群島</tw>
+	</country>
+	<country>
+		<code>FR</code>
+		<en>France</en>
+		<cn>法国</cn>
+		<tw>法國</tw>
+	</country>
+	<country>
+		<code>GA</code>
+		<en>Gabon</en>
+		<cn>加蓬</cn>
+		<tw>加蓬</tw>
+	</country>
+	<country>
+		<code>GB</code>
+		<en>United Kingdom</en>
+		<cn>联合王国</cn>
+		<tw>聯合王國</tw>
+	</country>
+	<country>
+		<code>GD</code>
+		<en>Grenada</en>
+		<cn>格林納達</cn>
+		<tw>格林納達</tw>
+	</country>
+	<country>
+		<code>GE</code>
+		<en>Georgia</en>
+		<cn>格魯吉亞</cn>
+		<tw>格魯吉亞</tw>
+	</country>
+	<country>
+		<code>GF</code>
+		<en>French Guiana</en>
+		<cn>法属圭亚那</cn>
+		<tw>法屬圭亞那</tw>
+	</country>
+	<country>
+		<code>GG</code>
+		<en>Guernsey</en>
+		<cn>根西島</cn>
+		<tw>根西島</tw>
+	</country>
+	<country>
+		<code>GH</code>
+		<en>Ghana</en>
+		<cn>加納</cn>
+		<tw>加納</tw>
+	</country>
+	<country>
+		<code>GI</code>
+		<en>Gibraltar</en>
+		<cn>直布罗陀</cn>
+		<tw>直布羅陀</tw>
+	</country>
+	<country>
+		<code>GL</code>
+		<en>Greenland</en>
+		<cn>格陵兰</cn>
+		<tw>格陵蘭</tw>
+	</country>
+	<country>
+		<code>GM</code>
+		<en>Gambia</en>
+		<cn>冈比亚</cn>
+		<tw>岡比亞</tw>
+	</country>
+	<country>
+		<code>GN</code>
+		<en>Guinea</en>
+		<cn>几内亚</cn>
+		<tw>幾內亞</tw>
+	</country>
+	<country>
+		<code>GP</code>
+		<en>Guadeloupe</en>
+		<cn>瓜德罗普岛</cn>
+		<tw>瓜德羅普島</tw>
+	</country>
+	<country>
+		<code>GQ</code>
+		<en>Equatorial Guinea</en>
+		<cn>赤道几内亚</cn>
+		<tw>赤道幾內亞</tw>
+	</country>
+	<country>
+		<code>GR</code>
+		<en>Greece</en>
+		<cn>希腊</cn>
+		<tw>希臘</tw>
+	</country>
+	<country>
+		<code>GS</code>
+		<en>South Georgia and the South Sandwich Islands</en>
+		<cn>南乔治亚岛和南桑威奇群岛</cn>
+		<tw>南喬治亞島和南桑威奇群島</tw>
+	</country>
+	<country>
+		<code>GT</code>
+		<en>Guatemala</en>
+		<cn>危地马拉</cn>
+		<tw>危地馬拉</tw>
+	</country>
+	<country>
+		<code>GU</code>
+		<en>Guam</en>
+		<cn>关岛</cn>
+		<tw>關島</tw>
+	</country>
+	<country>
+		<code>GW</code>
+		<en>Guinea-Bissau</en>
+		<cn>几内亚比绍</cn>
+		<tw>幾內亞比紹</tw>
+	</country>
+	<country>
+		<code>GY</code>
+		<en>Guyana</en>
+		<cn>圭亚那</cn>
+		<tw>圭亞那</tw>
+	</country>
+	<country>
+		<code>HK</code>
+		<en>China Hong Kong</en>
+		<cn>中国香港</cn>
+		<tw>中國香港</tw>
+	</country>
+	<country>
+		<code>HM</code>
+		<en>Heard Island and McDonald Islands</en>
+		<cn>赫德岛和麦克唐纳群岛</cn>
+		<tw>赫德島和麥克唐納群島</tw>
+	</country>
+	<country>
+		<code>HN</code>
+		<en>Honduras</en>
+		<cn>洪都拉斯</cn>
+		<tw>洪都拉斯</tw>
+	</country>
+	<country>
+		<code>HR</code>
+		<en>Croatia</en>
+		<cn>克罗地亚</cn>
+		<tw>克羅地亞</tw>
+	</country>
+	<country>
+		<code>HT</code>
+		<en>Haiti</en>
+		<cn>海地</cn>
+		<tw>海地</tw>
+	</country>
+	<country>
+		<code>HU</code>
+		<en>Hungary</en>
+		<cn>匈牙利</cn>
+		<tw>匈牙利</tw>
+	</country>
+	<country>
+		<code>ID</code>
+		<en>Indonesia</en>
+		<cn>印尼</cn>
+		<tw>印尼</tw>
+	</country>
+	<country>
+		<code>IE</code>
+		<en>Ireland</en>
+		<cn>爱尔兰</cn>
+		<tw>愛爾蘭</tw>
+	</country>
+	<country>
+		<code>IL</code>
+		<en>Israel</en>
+		<cn>以色列</cn>
+		<tw>以色列</tw>
+	</country>
+	<country>
+		<code>IM</code>
+		<en>Isle of Man</en>
+		<cn>马恩岛</cn>
+		<tw>馬恩島</tw>
+	</country>
+	<country>
+		<code>IN</code>
+		<en>India</en>
+		<cn>印度</cn>
+		<tw>印度</tw>
+	</country>
+	<country>
+		<code>IO</code>
+		<en>British Indian Ocean Territory</en>
+		<cn>英属印度洋领地</cn>
+		<tw>英屬印度洋領地</tw>
+	</country>
+	<country>
+		<code>IQ</code>
+		<en>Iraq</en>
+		<cn>伊拉克</cn>
+		<tw>伊拉克</tw>
+	</country>
+	<country>
+		<code>IR</code>
+		<en>Iran</en>
+		<cn>伊朗</cn>
+		<tw>伊朗</tw>
+	</country>
+	<country>
+		<code>IS</code>
+		<en>Iceland</en>
+		<cn>冰岛</cn>
+		<tw>冰島</tw>
+	</country>
+	<country>
+		<code>IT</code>
+		<en>Italy</en>
+		<cn>意大利</cn>
+		<tw>意大利</tw>
+	</country>
+	<country>
+		<code>JE</code>
+		<en>Jersey</en>
+		<cn>泽西</cn>
+		<tw>澤西</tw>
+	</country>
+	<country>
+		<code>JM</code>
+		<en>Jamaica</en>
+		<cn>牙買加</cn>
+		<tw>牙買加</tw>
+	</country>
+	<country>
+		<code>JO</code>
+		<en>Jordan</en>
+		<cn>约旦</cn>
+		<tw>約旦</tw>
+	</country>
+	<country>
+		<code>JP</code>
+		<en>Japan</en>
+		<cn>日本</cn>
+		<tw>日本</tw>
+	</country>
+	<country>
+		<code>KE</code>
+		<en>Kenya</en>
+		<cn>肯尼亚</cn>
+		<tw>肯尼亞</tw>
+	</country>
+	<country>
+		<code>KG</code>
+		<en>Kyrgyzstan</en>
+		<cn>吉尔吉斯斯坦</cn>
+		<tw>吉爾吉斯斯坦</tw>
+	</country>
+	<country>
+		<code>KH</code>
+		<en>Cambodia</en>
+		<cn>柬埔寨</cn>
+		<tw>柬埔寨</tw>
+	</country>
+	<country>
+		<code>KI</code>
+		<en>Kiribati</en>
+		<cn>基里巴斯</cn>
+		<tw>基里巴斯</tw>
+	</country>
+	<country>
+		<code>KM</code>
+		<en>Comoros</en>
+		<cn>科摩罗</cn>
+		<tw>科摩羅</tw>
+	</country>
+	<country>
+		<code>KN</code>
+		<en>Saint Kitts and Nevis</en>
+		<cn>圣基茨和尼维斯</cn>
+		<tw>聖基茨和尼維斯</tw>
+	</country>
+	<country>
+		<code>KP</code>
+		<en>North Korea</en>
+		<cn>北韩</cn>
+		<tw>北韓</tw>
+	</country>
+	<country>
+		<code>KR</code>
+		<en>South Korea</en>
+		<cn>韩国</cn>
+		<tw>韓國</tw>
+	</country>
+	<country>
+		<code>KW</code>
+		<en>Kuwait</en>
+		<cn>科威特</cn>
+		<tw>科威特</tw>
+	</country>
+	<country>
+		<code>KY</code>
+		<en>Cayman Islands</en>
+		<cn>开曼群岛</cn>
+		<tw>開曼群島</tw>
+	</country>
+	<country>
+		<code>KZ</code>
+		<en>Kazakhstan</en>
+		<cn>哈萨克斯坦</cn>
+		<tw>哈薩克斯坦</tw>
+	</country>
+	<country>
+		<code>LA</code>
+		<en>Laos</en>
+		<cn>老挝</cn>
+		<tw>老撾</tw>
+	</country>
+	<country>
+		<code>LB</code>
+		<en>Lebanon</en>
+		<cn>黎巴嫩</cn>
+		<tw>黎巴嫩</tw>
+	</country>
+	<country>
+		<code>LC</code>
+		<en>Saint Lucia</en>
+		<cn>圣卢西亚</cn>
+		<tw>聖盧西亞</tw>
+	</country>
+	<country>
+		<code>LI</code>
+		<en>Liechtenstein</en>
+		<cn>列支敦士登</cn>
+		<tw>列支敦士登</tw>
+	</country>
+	<country>
+		<code>LK</code>
+		<en>Sri Lanka</en>
+		<cn>斯里兰卡</cn>
+		<tw>斯里蘭卡</tw>
+	</country>
+	<country>
+		<code>LR</code>
+		<en>Liberia</en>
+		<cn>利比里亚</cn>
+		<tw>利比里亞</tw>
+	</country>
+	<country>
+		<code>LS</code>
+		<en>Lesotho</en>
+		<cn>莱索托</cn>
+		<tw>萊索托</tw>
+	</country>
+	<country>
+		<code>LT</code>
+		<en>Lithuania</en>
+		<cn>立陶宛</cn>
+		<tw>立陶宛</tw>
+	</country>
+	<country>
+		<code>LU</code>
+		<en>Luxembourg</en>
+		<cn>卢森堡</cn>
+		<tw>盧森堡</tw>
+	</country>
+	<country>
+		<code>LV</code>
+		<en>Latvia</en>
+		<cn>拉脱维亚</cn>
+		<tw>拉脫維亞</tw>
+	</country>
+	<country>
+		<code>LY</code>
+		<en>Libya</en>
+		<cn>利比亚</cn>
+		<tw>利比亞</tw>
+	</country>
+	<country>
+		<code>MA</code>
+		<en>Morocco</en>
+		<cn>摩洛哥</cn>
+		<tw>摩洛哥</tw>
+	</country>
+	<country>
+		<code>MC</code>
+		<en>Monaco</en>
+		<cn>摩纳哥</cn>
+		<tw>摩納哥</tw>
+	</country>
+	<country>
+		<code>MD</code>
+		<en>Moldova</en>
+		<cn>摩尔多瓦</cn>
+		<tw>摩爾多瓦</tw>
+	</country>
+	<country>
+		<code>ME</code>
+		<en>Montenegro</en>
+		<cn>黑山</cn>
+		<tw>黑山</tw>
+	</country>
+	<country>
+		<code>MF</code>
+		<en>Saint Martin</en>
+		<cn>圣马丁</cn>
+		<tw>聖馬丁</tw>
+	</country>
+	<country>
+		<code>MG</code>
+		<en>Madagascar</en>
+		<cn>马达加斯加</cn>
+		<tw>馬達加斯加</tw>
+	</country>
+	<country>
+		<code>MH</code>
+		<en>Marshall Islands</en>
+		<cn>马绍尔群岛</cn>
+		<tw>馬紹爾群島</tw>
+	</country>
+	<country>
+		<code>MK</code>
+		<en>Macedonia</en>
+		<cn>马其顿</cn>
+		<tw>馬其頓</tw>
+	</country>
+	<country>
+		<code>ML</code>
+		<en>Mali</en>
+		<cn>马里</cn>
+		<tw>馬里</tw>
+	</country>
+	<country>
+		<code>MM</code>
+		<en>Myanmar</en>
+		<cn>缅甸</cn>
+		<tw>緬甸</tw>
+	</country>
+	<country>
+		<code>MN</code>
+		<en>Mongolia</en>
+		<cn>蒙古</cn>
+		<tw>蒙古</tw>
+	</country>
+	<country>
+		<code>MO</code>
+		<en>China Macao</en>
+		<cn>中国澳门</cn>
+		<tw>中國澳門</tw>
+	</country>
+	<country>
+		<code>MP</code>
+		<en>Northern Mariana Islands</en>
+		<cn>北马里亚纳群岛</cn>
+		<tw>北馬里亞納群島</tw>
+	</country>
+	<country>
+		<code>MQ</code>
+		<en>Martinique</en>
+		<cn>马提尼克岛</cn>
+		<tw>馬提尼克島</tw>
+	</country>
+	<country>
+		<code>MR</code>
+		<en>Mauritania</en>
+		<cn>毛里塔尼亚</cn>
+		<tw>毛里塔尼亞</tw>
+	</country>
+	<country>
+		<code>MS</code>
+		<en>Montserrat</en>
+		<cn>蒙特塞拉特</cn>
+		<tw>蒙特塞拉特</tw>
+	</country>
+	<country>
+		<code>MT</code>
+		<en>Malta</en>
+		<cn>马耳他</cn>
+		<tw>馬耳他</tw>
+	</country>
+	<country>
+		<code>MU</code>
+		<en>Mauritius</en>
+		<cn>毛里求斯</cn>
+		<tw>毛里求斯</tw>
+	</country>
+	<country>
+		<code>MV</code>
+		<en>Maldives</en>
+		<cn>马尔代夫</cn>
+		<tw>馬爾代夫</tw>
+	</country>
+	<country>
+		<code>MW</code>
+		<en>Malawi</en>
+		<cn>马拉维</cn>
+		<tw>馬拉維</tw>
+	</country>
+	<country>
+		<code>MX</code>
+		<en>Mexico</en>
+		<cn>墨西哥</cn>
+		<tw>墨西哥</tw>
+	</country>
+	<country>
+		<code>MY</code>
+		<en>Malaysia</en>
+		<cn>马来西亚</cn>
+		<tw>馬來西亞</tw>
+	</country>
+	<country>
+		<code>MZ</code>
+		<en>Mozambique</en>
+		<cn>莫桑比克</cn>
+		<tw>莫桑比克</tw>
+	</country>
+	<country>
+		<code>NA</code>
+		<en>Namibia</en>
+		<cn>纳米比亚</cn>
+		<tw>納米比亞</tw>
+	</country>
+	<country>
+		<code>NC</code>
+		<en>New Caledonia</en>
+		<cn>新喀里多尼亚</cn>
+		<tw>新喀裡多尼亞</tw>
+	</country>
+	<country>
+		<code>NE</code>
+		<en>Niger</en>
+		<cn>尼日尔</cn>
+		<tw>尼日爾</tw>
+	</country>
+	<country>
+		<code>NF</code>
+		<en>Norfolk Island</en>
+		<cn>诺福克岛</cn>
+		<tw>諾福克島</tw>
+	</country>
+	<country>
+		<code>NG</code>
+		<en>Nigeria</en>
+		<cn>尼日利亚</cn>
+		<tw>尼日利亞</tw>
+	</country>
+	<country>
+		<code>NI</code>
+		<en>Nicaragua</en>
+		<cn>尼加拉瓜</cn>
+		<tw>尼加拉瓜</tw>
+	</country>
+	<country>
+		<code>NL</code>
+		<en>Netherlands</en>
+		<cn>荷兰</cn>
+		<tw>荷蘭</tw>
+	</country>
+	<country>
+		<code>NO</code>
+		<en>Norway</en>
+		<cn>挪威</cn>
+		<tw>挪威</tw>
+	</country>
+	<country>
+		<code>NP</code>
+		<en>Nepal</en>
+		<cn>尼泊尔</cn>
+		<tw>尼泊爾</tw>
+	</country>
+	<country>
+		<code>NR</code>
+		<en>Nauru</en>
+		<cn>瑙鲁</cn>
+		<tw>瑙魯</tw>
+	</country>
+	<country>
+		<code>NU</code>
+		<en>Niue</en>
+		<cn>纽埃</cn>
+		<tw>紐埃</tw>
+	</country>
+	<country>
+		<code>NZ</code>
+		<en>New Zealand</en>
+		<cn>新西兰</cn>
+		<tw>新西蘭</tw>
+	</country>
+	<country>
+		<code>OM</code>
+		<en>Oman</en>
+		<cn>阿曼</cn>
+		<tw>阿曼</tw>
+	</country>
+	<country>
+		<code>PA</code>
+		<en>Panama</en>
+		<cn>巴拿马</cn>
+		<tw>巴拿馬</tw>
+	</country>
+	<country>
+		<code>PE</code>
+		<en>Peru</en>
+		<cn>秘鲁</cn>
+		<tw>秘魯</tw>
+	</country>
+	<country>
+		<code>PF</code>
+		<en>French Polynesia</en>
+		<cn>法属玻里尼西亚</cn>
+		<tw>法屬玻里尼西亞</tw>
+	</country>
+	<country>
+		<code>PG</code>
+		<en>Papua New Guinea</en>
+		<cn>巴布亚新畿内亚</cn>
+		<tw>巴布亞新畿內亞</tw>
+	</country>
+	<country>
+		<code>PH</code>
+		<en>Philippines</en>
+		<cn>菲律宾</cn>
+		<tw>菲律賓</tw>
+	</country>
+	<country>
+		<code>PK</code>
+		<en>Pakistan</en>
+		<cn>巴基斯坦</cn>
+		<tw>巴基斯坦</tw>
+	</country>
+	<country>
+		<code>PL</code>
+		<en>Poland</en>
+		<cn>波兰</cn>
+		<tw>波蘭</tw>
+	</country>
+	<country>
+		<code>PM</code>
+		<en>Saint Pierre and Miquelon</en>
+		<cn>圣皮埃尔和密克隆</cn>
+		<tw>聖皮埃爾和密克隆</tw>
+	</country>
+	<country>
+		<code>PN</code>
+		<en>Pitcairn</en>
+		<cn>皮特凯恩</cn>
+		<tw>皮特凱恩</tw>
+	</country>
+	<country>
+		<code>PR</code>
+		<en>Puerto Rico</en>
+		<cn>波多黎各</cn>
+		<tw>波多黎各</tw>
+	</country>
+	<country>
+		<code>PS</code>
+		<en>Palestinian Territory</en>
+		<cn>巴勒斯坦领土</cn>
+		<tw>巴勒斯坦領土</tw>
+	</country>
+	<country>
+		<code>PT</code>
+		<en>Portugal</en>
+		<cn>葡萄牙</cn>
+		<tw>葡萄牙</tw>
+	</country>
+	<country>
+		<code>PW</code>
+		<en>Palau</en>
+		<cn>帕劳</cn>
+		<tw>帕勞</tw>
+	</country>
+	<country>
+		<code>PY</code>
+		<en>Paraguay</en>
+		<cn>巴拉圭</cn>
+		<tw>巴拉圭</tw>
+	</country>
+	<country>
+		<code>QA</code>
+		<en>Qatar</en>
+		<cn>卡塔尔</cn>
+		<tw>卡塔爾</tw>
+	</country>
+	<country>
+		<code>RE</code>
+		<en>Reunion</en>
+		<cn>团聚</cn>
+		<tw>團聚</tw>
+	</country>
+	<country>
+		<code>RO</code>
+		<en>Romania</en>
+		<cn>罗马尼亚</cn>
+		<tw>羅馬尼亞</tw>
+	</country>
+	<country>
+		<code>RS</code>
+		<en>Serbia</en>
+		<cn>塞尔维亚</cn>
+		<tw>塞爾維亞</tw>
+	</country>
+	<country>
+		<code>RU</code>
+		<en>Russia</en>
+		<cn>俄罗斯</cn>
+		<tw>俄羅斯</tw>
+	</country>
+	<country>
+		<code>RW</code>
+		<en>Rwanda</en>
+		<cn>卢旺达</cn>
+		<tw>盧旺達</tw>
+	</country>
+	<country>
+		<code>SA</code>
+		<en>Saudi Arabia</en>
+		<cn>沙特阿拉伯</cn>
+		<tw>沙特阿拉伯</tw>
+	</country>
+	<country>
+		<code>SB</code>
+		<en>Solomon Islands</en>
+		<cn>索罗门群岛</cn>
+		<tw>索羅門群島</tw>
+	</country>
+	<country>
+		<code>SC</code>
+		<en>Seychelles</en>
+		<cn>塞舌尔</cn>
+		<tw>塞舌爾</tw>
+	</country>
+	<country>
+		<code>SD</code>
+		<en>Sudan</en>
+		<cn>苏丹</cn>
+		<tw>蘇丹</tw>
+	</country>
+	<country>
+		<code>SE</code>
+		<en>Sweden</en>
+		<cn>瑞典</cn>
+		<tw>瑞典</tw>
+	</country>
+	<country>
+		<code>SG</code>
+		<en>Singapore</en>
+		<cn>新加坡</cn>
+		<tw>新加坡</tw>
+	</country>
+	<country>
+		<code>SH</code>
+		<en>Saint Helena</en>
+		<cn>圣赫勒拿岛</cn>
+		<tw>聖赫勒拿島</tw>
+	</country>
+	<country>
+		<code>SI</code>
+		<en>Slovenia</en>
+		<cn>斯洛文尼亚</cn>
+		<tw>斯洛文尼亞</tw>
+	</country>
+	<country>
+		<code>SJ</code>
+		<en>Svalbard and Jan Mayen</en>
+		<cn>斯瓦尔巴和扬马延</cn>
+		<tw>斯瓦爾巴和揚馬延</tw>
+	</country>
+	<country>
+		<code>SK</code>
+		<en>Slovakia</en>
+		<cn>斯洛伐克</cn>
+		<tw>斯洛伐克</tw>
+	</country>
+	<country>
+		<code>SL</code>
+		<en>Sierra Leone</en>
+		<cn>塞拉利昂</cn>
+		<tw>塞拉利昂</tw>
+	</country>
+	<country>
+		<code>SM</code>
+		<en>San Marino</en>
+		<cn>圣马力诺</cn>
+		<tw>聖馬力諾</tw>
+	</country>
+	<country>
+		<code>SN</code>
+		<en>Senegal</en>
+		<cn>塞内加尔</cn>
+		<tw>塞內加爾</tw>
+	</country>
+	<country>
+		<code>SO</code>
+		<en>Somalia</en>
+		<cn>索马里</cn>
+		<tw>索馬里</tw>
+	</country>
+	<country>
+		<code>SR</code>
+		<en>Suriname</en>
+		<cn>苏里南</cn>
+		<tw>蘇里南</tw>
+	</country>
+	<country>
+		<code>ST</code>
+		<en>Sao Tome and Principe</en>
+		<cn>圣多美普林西比</cn>
+		<tw>聖多美普林西比</tw>
+	</country>
+	<country>
+		<code>SV</code>
+		<en>El Salvador</en>
+		<cn>萨尔瓦多</cn>
+		<tw>薩爾瓦多</tw>
+	</country>
+	<country>
+		<code>SY</code>
+		<en>Syria</en>
+		<cn>叙利亚</cn>
+		<tw>敘利亞</tw>
+	</country>
+	<country>
+		<code>SZ</code>
+		<en>Swaziland</en>
+		<cn>史瓦济兰</cn>
+		<tw>史瓦濟蘭</tw>
+	</country>
+	<country>
+		<code>TC</code>
+		<en>Turks and Caicos Islands</en>
+		<cn>特克斯和凯科斯群岛</cn>
+		<tw>特克斯和凱科斯群島</tw>
+	</country>
+	<country>
+		<code>TD</code>
+		<en>Chad</en>
+		<cn>乍得</cn>
+		<tw>乍得</tw>
+	</country>
+	<country>
+		<code>TF</code>
+		<en>French Southern Territories</en>
+		<cn>法国南方领地</cn>
+		<tw>法國南部領土</tw>
+	</country>
+	<country>
+		<code>TG</code>
+		<en>Togo</en>
+		<cn>多哥</cn>
+		<tw>多哥</tw>
+	</country>
+	<country>
+		<code>TH</code>
+		<en>Thailand</en>
+		<cn>泰国</cn>
+		<tw>泰國</tw>
+	</country>
+	<country>
+		<code>TJ</code>
+		<en>Tajikistan</en>
+		<cn>塔吉克斯坦</cn>
+		<tw>塔吉克斯坦</tw>
+	</country>
+	<country>
+		<code>TK</code>
+		<en>Tokelau</en>
+		<cn>托克劳</cn>
+		<tw>托克勞</tw>
+	</country>
+	<country>
+		<code>TL</code>
+		<en>East Timor</en>
+		<cn>东帝汶</cn>
+		<tw>東帝汶</tw>
+	</country>
+	<country>
+		<code>TM</code>
+		<en>Turkmenistan</en>
+		<cn>土库曼斯坦</cn>
+		<tw>土庫曼斯坦</tw>
+	</country>
+	<country>
+		<code>TN</code>
+		<en>Tunisia</en>
+		<cn>突尼斯</cn>
+		<tw>突尼斯</tw>
+	</country>
+	<country>
+		<code>TO</code>
+		<en>Tonga</en>
+		<cn>汤加</cn>
+		<tw>湯加</tw>
+	</country>
+	<country>
+		<code>TR</code>
+		<en>Turkey</en>
+		<cn>土耳其</cn>
+		<tw>土耳其</tw>
+	</country>
+	<country>
+		<code>TT</code>
+		<en>Trinidad and Tobago</en>
+		<cn>特里尼达和多巴哥</cn>
+		<tw>特里尼達和多巴哥</tw>
+	</country>
+	<country>
+		<code>TV</code>
+		<en>Tuvalu</en>
+		<cn>图瓦卢</cn>
+		<tw>圖瓦盧</tw>
+	</country>
+	<country>
+		<code>TW</code>
+		<en>China Taiwan</en>
+		<cn>中国台湾</cn>
+		<tw>中國台灣</tw>
+	</country>
+	<country>
+		<code>TZ</code>
+		<en>Tanzania</en>
+		<cn>坦桑尼亚</cn>
+		<tw>坦桑尼亞</tw>
+	</country>
+	<country>
+		<code>UA</code>
+		<en>Ukraine</en>
+		<cn>乌克兰</cn>
+		<tw>烏克蘭</tw>
+	</country>
+	<country>
+		<code>UG</code>
+		<en>Uganda</en>
+		<cn>乌干达</cn>
+		<tw>烏干達</tw>
+	</country>
+	<country>
+		<code>UM</code>
+		<en>United States Minor Outlying Islands</en>
+		<cn>美国小离岛区</cn>
+		<tw>美國小離島區</tw>
+	</country>
+	<country>
+		<code>US</code>
+		<en>United States</en>
+		<cn>美国</cn>
+		<tw>美國</tw>
+	</country>
+	<country>
+		<code>UY</code>
+		<en>Uruguay</en>
+		<cn>乌拉圭</cn>
+		<tw>烏拉圭</tw>
+	</country>
+	<country>
+		<code>UZ</code>
+		<en>Uzbekistan</en>
+		<cn>乌兹别克斯坦</cn>
+		<tw>烏茲別克斯坦</tw>
+	</country>
+	<country>
+		<code>VA</code>
+		<en>Vatican</en>
+		<cn>梵蒂冈</cn>
+		<tw>梵蒂岡</tw>
+	</country>
+	<country>
+		<code>VC</code>
+		<en>Saint Vincent and the Grenadines</en>
+		<cn>圣文森特和格林纳丁斯</cn>
+		<tw>聖文森特和格林納丁斯</tw>
+	</country>
+	<country>
+		<code>VE</code>
+		<en>Venezuela</en>
+		<cn>委内瑞拉</cn>
+		<tw>委內瑞拉</tw>
+	</country>
+	<country>
+		<code>VG</code>
+		<en>British Virgin Islands</en>
+		<cn>英属维尔京群岛</cn>
+		<tw>英屬維爾京群島</tw>
+	</country>
+	<country>
+		<code>VI</code>
+		<en>U.S. Virgin Islands</en>
+		<cn>美国美属维尔京群岛</cn>
+		<tw>美國美屬維爾京群島</tw>
+	</country>
+	<country>
+		<code>VN</code>
+		<en>Vietnam</en>
+		<cn>越南</cn>
+		<tw>越南</tw>
+	</country>
+	<country>
+		<code>VU</code>
+		<en>Vanuatu</en>
+		<cn>瓦努阿图</cn>
+		<tw>瓦努阿圖</tw>
+	</country>
+	<country>
+		<code>WF</code>
+		<en>Wallis and Futuna</en>
+		<cn>瓦利斯和富图纳</cn>
+		<tw>瓦利斯和富圖納</tw>
+	</country>
+	<country>
+		<code>WS</code>
+		<en>Samoa</en>
+		<cn>萨摩亚</cn>
+		<tw>薩摩亞</tw>
+	</country>
+	<country>
+		<code>YE</code>
+		<en>Yemen</en>
+		<cn>也门</cn>
+		<tw>也門</tw>
+	</country>
+	<country>
+		<code>YT</code>
+		<en>Mayotte</en>
+		<cn>马约特岛</cn>
+		<tw>馬約特島</tw>
+	</country>
+	<country>
+		<code>ZA</code>
+		<en>South Africa</en>
+		<cn>南非</cn>
+		<tw>南非</tw>
+	</country>
+	<country>
+		<code>ZM</code>
+		<en>Zambia</en>
+		<cn>赞比亚</cn>
+		<tw>贊比亞</tw>
+	</country>
+	<country>
+		<code>ZW</code>
+		<en>Zimbabwe</en>
+		<cn>津巴布韦</cn>
+		<tw>津巴布韋</tw>
+	</country>
+</countries>
+
+
+
+<channels>
+<channel language="ro">
+<name en="Digi Sport 1" cn="">Digi Sport 1</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>digi_sport_1</file_name>
+<sch_channel_id>10198</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport1_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Digi Sport 1 HD" cn="">Digi Sport 1 HD</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>digi_sport_1</file_name>
+<sch_channel_id>10198</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport1_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Digi Sport 2" cn="">Digi Sport 2</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>digi_sport_2</file_name>
+<sch_channel_id>10199</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport2_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Digi Sport 3" cn="">Digi Sport 3</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>digi_sport_3</file_name>
+<sch_channel_id>10240</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_sport3_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Dolce Sport" cn="">Dolce Sport</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>dolce_sport</file_name>
+<sch_channel_id>10212</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dolce_sport.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Dolce Sport 2" cn="">Dolce Sport 2</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>dolce_sport_2</file_name>
+<sch_channel_id>10225</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/dolce_sport2.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Dolce Sport HD" cn="">Dolce Sport HD</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>dolce_sport_hd</file_name>
+<sch_channel_id>10212</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.frocus.net/images/logotv/original/Dolce-sport_HD.jpg</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="EuroSport" cn="">EuroSport</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>eurosport</file_name>
+<sch_channel_id>10028</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="EuroSport 2" cn="">EuroSport 2</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>eurosport_2</file_name>
+<sch_channel_id>10065</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/eurosport2.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="GSP TV" cn="">GSP TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>gsp_tv</file_name>
+<sch_channel_id>10155</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/gg/gsp_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Sport 1" cn="">Sport 1</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>sport_1</file_name>
+<sch_channel_id>10077</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ss/sport1_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="SPORT RO" cn="">SPORT RO</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Sports" cn="体育类">2</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>sport.ro</file_name>
+<sch_channel_id>10032</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://2.bp.blogspot.com/-Yl8-0JOa63o/TbbAhDsRBGI/AAAAAAAACIE/YUHtISuQ8Qw/s1600/sport.ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="National Geographic" cn="">National Geographic</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>national_geographic</file_name>
+<sch_channel_id>10024</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="National Geographic Wild" cn="">National Geographic Wild</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>nat_geo_wild</file_name>
+<sch_channel_id>10136</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nat_geo_wild_emea.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Animal Planet" cn="">Animal Planet</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>animal_planet</file_name>
+<sch_channel_id>10021</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animal_planet_europe.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Discovery Channel" cn="">Discovery Channel</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>discovery_channel</file_name>
+<sch_channel_id>10020</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Discovery Science" cn="">Discovery Science</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>discovery_science</file_name>
+<sch_channel_id>10044</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_science.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Investigation Discovery" cn="">Investigation Discovery</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>investigation_discovery</file_name>
+<sch_channel_id>10189</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ii/investigation_discovery_europe.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Discovery World" cn="">Discovery World</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>discovery_world</file_name>
+<sch_channel_id>10147</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_world.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Digi World" cn="">Digi World</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>digi_world</file_name>
+<sch_channel_id>10261</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_world_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="History" cn="">History</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>history</file_name>
+<sch_channel_id>10168</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/history.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Viasat Explorer" cn="">Viasat Explorer</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Documentary" cn="纪实类">13</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>viasat_explorer</file_name>
+<sch_channel_id>10039</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/viasat_explorer_east.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="HBO HD" cn="">HBO HD</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>hbo</file_name>
+<sch_channel_id>10003</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_hd.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="HBO" cn="">HBO</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>hbo</file_name>
+<sch_channel_id>10003</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="HBO Comedy" cn="">HBO Comedy</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>hbo_comedy</file_name>
+<sch_channel_id>10121</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/hh/hbo_comedy_ceu.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Pro Cinema" cn="">Pro Cinema</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>pro_cinema</file_name>
+<sch_channel_id>10036</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/92/Pro_Cinema.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="TV1000" cn="">TV1000</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>tv_1000</file_name>
+<sch_channel_id>10060</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/vv/viasat_tv1000_balkan.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Digi Film" cn="">Digi Film</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>digi_film</file_name>
+<sch_channel_id>10227</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_film_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="AXN" cn="">AXN</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>axn</file_name>
+<sch_channel_id>10033</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="AXN Crime" cn="">AXN Crime</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>axn_crime</file_name>
+<sch_channel_id>10073</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_crime.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="AXN SciFi" cn="">AXN SciFi</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>axn_sci-fi</file_name>
+<sch_channel_id>10072</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_scifi.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Diva Universal" cn="">Diva Universal</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>diva_universal</file_name>
+<sch_channel_id>10027</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/diva_universal_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Universal Channel" cn="">Universal Channel</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>universal_channel</file_name>
+<sch_channel_id>10149</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/uu/universal_channel_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Film Café" cn="">Film Café</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>film_cafe</file_name>
+<sch_channel_id>10051</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/film_cafe_hu.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Film Box HD" cn="">Film Box HD</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>filbox_hd</file_name>
+<sch_channel_id>10239</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/filmbox_hd.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="MGM" cn="">MGM</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>mgm</file_name>
+<sch_channel_id>10092</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mgm_channel_east_europe.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="TCM" cn="">TCM</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>tcm</file_name>
+<sch_channel_id>10054</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tcm.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Acasa Gold" cn="">Acasa Gold</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>acasa_gold</file_name>
+<sch_channel_id>10253</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/acasa_tv_gold.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Bollywood TV" cn="">Bollywood TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>bollywood_tv</file_name>
+<sch_channel_id>10246</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/bollywood_tv_ro.jpg</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Antena 1" cn="">Antena 1</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>antena_1</file_name>
+<sch_channel_id>10017</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/antena1_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Antena 2" cn="">Antena 2</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>antena_2</file_name>
+<sch_channel_id>10119</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/antena2_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="ProTV HD" cn="">ProTV HD</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>pro_tv</file_name>
+<sch_channel_id>10007</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/pro_tv_hd.jpg</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="ProTV" cn="">ProTV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>pro_tv</file_name>
+<sch_channel_id>10007</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://userlogos.org/files/logos/lukian89/g2114elo.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="TVR 1" cn="">TVR 1</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>tvr_1</file_name>
+<sch_channel_id>10001</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvr1_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="TVR HD" cn="">TVR HD</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>tvr_hd</file_name>
+<sch_channel_id>10190</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvr_hd.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="TVR 2" cn="">TVR 2</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>tvr_2</file_name>
+<sch_channel_id>10002</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tvr2_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Prima TV" cn="">Prima TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>prima_tv</file_name>
+<sch_channel_id>10005</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/prima_tv.jpg</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Acasa TV" cn="">Acasa TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Movies" cn="电影">9</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>acasa_tv</file_name>
+<sch_channel_id>10004</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/acasa_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="B1 TV" cn="">B1 TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>b1</file_name>
+<sch_channel_id>10022</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/b1_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Kanal D" cn="">Kanal D</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>kanal_d</file_name>
+<sch_channel_id>10097</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.kusdili.net/1/resimler/522px-Kanal_D_logo.svg.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="National TV" cn="">National TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>national_tv</file_name>
+<sch_channel_id>10031</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/0/02/National_TV.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="OTV" cn="">OTV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="General" cn="综合类">3</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>otv</file_name>
+<sch_channel_id>10046</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.mixmusicevolution.ro/wp-content/uploads/2011/03/logo_otv.png</thumbnail>
+</channel>
+	
+<channel language="ro">
+<name en="Animax" cn="">Animax</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Cartoon" cn="卡通类">10</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>animax</file_name>
+<sch_channel_id>10091</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/animax_ro.png</thumbnail>
+</channel>
+	
+<channel language="ro">
+<name en="Boomerang TV" cn="">Boomerang TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Cartoon" cn="卡通类">10</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>boomerang</file_name>
+<sch_channel_id>10081</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/bb/boomerang_ce.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Disney Channel" cn="">Disney Channel</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Cartoon" cn="卡通类">10</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>disney_channel</file_name>
+<sch_channel_id>10018</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Disney Junior" cn="">Disney Junior</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Cartoon" cn="卡通类">10</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>disney_junior</file_name>
+<sch_channel_id>10263</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_junior_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Minimax" cn="">Minimax</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Cartoon" cn="卡通类">10</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>minimax</file_name>
+<sch_channel_id>10023</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/minimax_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Cartoon Network" cn="">Cartoon Network</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Cartoon" cn="卡通类">10</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>cartoon_network</file_name>
+<sch_channel_id>10053</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/cc/cartoon_network.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Party TV" cn="">Party TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Music" cn="音乐类">11</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>party_tv</file_name>
+<sch_channel_id/>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/pp/party_tv.jpg</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="MTV" cn="">MTV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Music" cn="音乐类">11</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>mtv_romania</file_name>
+<sch_channel_id>10026</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/mm/mtv_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Taraf TV" cn="">Taraf TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Music" cn="音乐类">11</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>taraf_tv</file_name>
+<sch_channel_id>10101</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/taraf_tv.jpg</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Kiss TV" cn="">Kiss TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Music" cn="音乐类">11</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>kiss_tv</file_name>
+<sch_channel_id>10008</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/taraf_tv.jpg</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Favorit" cn="">Favorit</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Music" cn="音乐类">11</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>favorit_tv</file_name>
+<sch_channel_id>10071</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/favorit_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="U TV" cn="">U TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Music" cn="音乐类">11</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>u_tv</file_name>
+<sch_channel_id>10096</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/uu/u_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Mynele TV" cn="">Mynele TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Music" cn="音乐类">11</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>mynele_tv</file_name>
+<sch_channel_id>10206</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mynele.jpg</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Etno TV" cn="">Etno TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Music" cn="音乐类">11</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>etno_tv</file_name>
+<sch_channel_id>10037</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/etno_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Realitatea TV" cn="">Realitatea TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="News" cn="新闻类">6</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>realitatea_tv</file_name>
+<sch_channel_id>10019</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/realitatea_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Nasul TV" cn="">Nasul TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="News" cn="新闻类">6</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>nasul_tv</file_name>
+<sch_channel_id>10256</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasul_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Antena 3" cn="">Antena 3</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="News" cn="新闻类">6</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>antena_3</file_name>
+<sch_channel_id>10055</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/aa/antena3_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Romania TV" cn="">Romania TV</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="News" cn="新闻类">6</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>romania_tv</file_name>
+<sch_channel_id>10245</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/rr/rtv_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Digi 24" cn="">Digi 24</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="News" cn="新闻类">6</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>digi_24_hd</file_name>
+<sch_channel_id>10251</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_24_ro_hd.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Digi Life" cn="">Digi Life</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Education" cn="教育类">8</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>digi_life</file_name>
+<sch_channel_id>10262</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/digi_life_ro.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Discovery TravelLiving" cn="">Discovery TravelLiving</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Education" cn="教育类">8</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>discovery_travel_and_living</file_name>
+<sch_channel_id>10045</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_travel_living.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="Euforia" cn="">Euforia</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Education" cn="教育类">8</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>euforia_lifestyle_tv</file_name>
+<sch_channel_id>10063</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/euforia_lifestyle_tv.png</thumbnail>
+</channel>
+
+<channel language="ro">
+<name en="TLC" cn="">TLC</name>
+<region en="Romania" cn="罗马尼亚">RO</region>
+<class en="Education" cn="教育类">8</class>
+<sch_domain>port.ro</sch_domain>
+<file_name>tlc</file_name>
+<sch_channel_id>10224</sch_channel_id>
+<sch_list_expire>6</sch_list_expire>
+<sch_timezone>Europe/Bucharest</sch_timezone>
+<description cn=""></description>
+<thumbnail>http://www.lyngsat-logo.com/hires/tt/tlc_ro.png</thumbnail>
+</channel>
+
+
+
+</channels>
+
+</data>
+
+
+
+
