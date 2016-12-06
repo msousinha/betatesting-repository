@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="betatesting-repository" name="BetaTesting Repository" version="1.0" provider-name="teste">
+<addon id="betatesting-repository" name="BetaTesting Repository" version="1.1" provider-name="teste">
 <requires>
 		<import addon="repository.exodus" version="1.0.0" />
 </requires>

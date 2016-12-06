@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="betatesting-repository" name="BetaTesting Repository" version="1.0" provider-name="teste">
+<addon id="betatesting-repository" name="BetaTesting Repository" version="1.1" provider-name="teste">
+<requires>
+		<import addon="repository.exodus" version="1.0.0" />
+</requires>
 	<extension point="xbmc.addon.repository" name="BetaTesting Add-on Repository">
 	<info compressed="false">https://raw.github.com/msousinha/betatesting-repository/master/addons.xml</info>
 		<checksum>https://raw.github.com/msousinha/betatesting-repository/master/addons.xml.md5</checksum>
