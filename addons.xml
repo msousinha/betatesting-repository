@@ -17,89 +17,6 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.laliga" name="La Liga" version="0.0.13" provider-name="Topo">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.liveresolver"  />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Liga Española: La mejor liga del mundo</summary>
-		<description lang="en">Liga Española</description>
-		<disclaimer lang="en">El autor no almacena ni distribuye ninguno de los contenidos que se muestran en este addon. El autor no tiene ninguna afiliación con el proveedor de contenidos.</disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.sembilhete.tv" name="SemBilhete.tv" provider-name="SemBilhete.tv" version="0.5.4">
- <requires>
-  <import addon="xbmc.python" version="2.7.10"/>
- </requires>
- <extension library="addon.py" point="xbmc.python.pluginsource">
-  <provides>video</provides>
- </extension>
- <extension point="xbmc.addon.metadata">
-    <summary>SemBilhete.tv</summary>
-    <description>Addon oficial do SemBilhete.tv, os teus Filmes e Séries do Sem Bilhete agora no Kodi.</description>
-    <disclaimer>Addon oficial do Sem Bilhete, qualquer duvida ou questão contacte-nos pelo site ou pelo Facebook.</disclaimer>
-    <language>pt</language>
-    <platform>all</platform>
-    <license></license>
-    <forum></forum>
-    <website>https://sembilhete.tv</website>
-    <email></email>
-    <source></source>
- </extension>
-</addon>
-
-<addon
-  id="plugin.video.SportsDevil"
-  version="2016.09.24"
-  name="SportsDevil"
-  provider-name="SportsDevil">
-  <requires>
-   <import addon="xbmc.python" version="2.14.0"/>
-   <import addon="script.module.simplejson" />
-   <import addon="script.module.six" />
-   <import addon="script.module.requests" />
-   <import addon="script.module.livestreamer" />
-   <import addon="script.module.pydevd" version="4.4.0" optional="true"/>
-  </requires>
-  <extension
-    point="xbmc.python.pluginsource"
-    library="default.py">
-   <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Play videos of different sports streaming sites</summary>
-    <description>Play videos of different sports streaming sites</description>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.xsopcast"
-       name="X-Sopcast"
-       version="0.2.20"
-       provider-name="Cristi - Atlanta">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.parsedom" version="0.9.1"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Watch Sports, Videos and Highlights.</summary>
-    <description>SopCast is a simple, free way to broadcast video and audio or watch the video and listen to radio on the Internet. Adopting P2P(Peer-to-Peer) technology, It is very efficient and easy to use.
-SoP is the abbreviation for Streaming over P2P. Sopcast is a Streaming Direct Broadcasting System based on P2P. The core is the communication protocol produced by Sopcast Team, which is named sop://, or SoP technology. </description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="repository.exodus" version="1.0.0" name="Exodus repository" provider-name="l*m*d*">
 	<extension point="xbmc.addon.repository" name="Exodus repository">
 		<dir>
@@ -116,30 +33,5 @@ SoP is the abbreviation for Streaming over P2P. Sopcast is a Streaming Direct Br
 		<description lang="en">Exodus repository</description>
 		<platform>all</platform>
 	</extension>
-</addon>
-
-<addon
-   id="service.subtitles.legendastv"
-   name="Legendas.TV"
-   version="2.3.2"
-   provider-name="gfjardim">
-  <requires>
-    <import addon="xbmc.python" version="2.14.0"/>
-  </requires>
-  <extension point="xbmc.subtitle.module" library="service.py" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Legendas.TV</summary>
-    <description lang="en">Search and download subtitles from Legendas.TV</description>
-    <description lang="pt">Procura e baixa legendas de Legendas.TV</description>
-    <disclaimer lang="en">For bugs, requests or general questions visit the 'Subtitle add-on' subforum on the XBMC forum.</disclaimer>
-    <disclaimer lang="pt">Para bugs, pedidos ou perguntas visite o subfórum 'Subtitle add-on' no fórum oficial do XBMC.</disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 3.</license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <source>https://github.com/gfjardim/service.subtitles.legendastv</source>
-  </extension>
 </addon>
 </addons>
